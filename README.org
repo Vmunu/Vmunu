@@ -1,0 +1,28 @@
+#+TITLE: Howdy!
+#+AUTHOR: Vox
+#         ____
+#  _   _ / ___|  UmbralGoat [Vox]
+# | | | | |  _   https://www.github.com/v_munu
+# | |_| | |_| |  https://www.twitter.com/vox_munu
+#  \__,_|\____|  Discord: v_munu
+
+I'm Vox, a physics PhD student that loves to tinker with computers.
+
+- I'm a classical trumpet player.
+- I'm interested in condensed-matter physics and quantum field theory.
+- Been using Linux exclusively since 2020.
+- I love worldbuilding/fantasy.
+- I'm obsessed with dragons.
+
+* Programming
+I'm by no means a programming expert; I am somewhat comfortable with:
+- Python
+- Java
+- MATLAB
+And I've had basic introductions to:
+- C++/C#
+- Haskell
+
+* Academics
+- Received my Bachelor's in Physics in May 2024
+- I will be pursuing my PhD in Physics starting August 2024!
