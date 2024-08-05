@@ -10,13 +10,13 @@
 #          | /
 #          |_|
 
-I'm Vox, a physics student that loves to tinker with computers.
+I'm Vincent (or Vox), a physics student that loves to tinker with computers.
 
+- I'm interested in quantum sciences and mathematics.
 - I'm a classical trumpet player.
-- I'm interested in condensed-matter physics and quantum field theory.
-- Been using Linux exclusively since 2020.
+- I've used Linux exclusively since 2020.
 - I love worldbuilding/fantasy.
-- I'm obsessed with dragons.
+- I love dragons.
 
 * Programming
 I'm by no means a programming expert; I am somewhat comfortable with:
@@ -29,4 +29,4 @@ And I've had basic introductions to:
 
 * Academics
 - Received my Bachelor's in Physics in May 2024
-- I will be pursuing my PhD in Physics starting August 2024!
+- Began pursuing my PhD in Physics in August 2024! 
