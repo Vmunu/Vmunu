@@ -10,13 +10,12 @@
 #          | /
 #          |_|
 
-I'm Vincent (or Vox), a physics student that loves to tinker with computers.
+I'm Vox (Vincent), a physics student with a bunch of weird interests. 
 
-- I'm interested in quantum sciences and mathematics.
-- I'm a classical trumpet player.
-- I've used Linux exclusively since 2020.
-- I love worldbuilding/fantasy.
-- I love dragons.
+- I'm interested in theoretical and computational condensed-matter physics & complex mathematics.
+- I love music and music theory.
+- I've been fully running Linux since 2020.
+- I'm a dragon enthusiast.
 
 * Programming
 I'm by no means a programming expert; I am somewhat comfortable with:
